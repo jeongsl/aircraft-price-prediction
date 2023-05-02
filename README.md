@@ -14,3 +14,5 @@
 
 ## 분석 결과
 비행기 가격에는 승객 수, 운송 범위, 높이가 영향을 미침
+![image](https://user-images.githubusercontent.com/128488488/235677691-e9a03a18-8cb6-4957-b7a5-70c941e7816c.png)
+
