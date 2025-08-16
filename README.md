@@ -12,7 +12,7 @@
 
 
 ## 분석 방법
-* R-studio : 다중선형회귀분석
+* R-studio : Linear Regression model
 * $price = \beta_0 + \beta_1 제조사 + \beta_2 비행기 종류 + \beta_3 비행기 크기 + \beta_4 비행기 등급 + \beta_5 엔진 종류 + \beta_6 엔진 수 + \beta_7 생산 수량 + \beta_8 조종석 수 + \beta_9 승객수 + \beta_{10} 길이 + \beta_{11} 높이 + \beta_{12} 운송범위$
 
 
